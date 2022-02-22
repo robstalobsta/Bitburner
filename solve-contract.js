@@ -286,7 +286,7 @@ function validateParentheses(s) {
  
  
 /** @param {NS} ns **/
- 
+/** commenting out as it is breaking things
 function findAllValidMathExpr(ns, data) {
  
 	var s = data[0];
@@ -296,7 +296,7 @@ function findAllValidMathExpr(ns, data) {
 	return findExpr(s, n, "");
  
 }
- 
+**/
  
 function findExpr(s, n, expr) {
  
