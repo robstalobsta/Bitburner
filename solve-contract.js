@@ -114,13 +114,13 @@ export function solveContract(ns, host, filename, logLevel=0) {
 		answer = mergeOverlappingIntervals(ns, data);
 		
 		break;
-		
+		/** commenting out as it is breaking the game
 		case "Find All Valid Math Expressions":
 		
 		answer = findAllValidMathExpr(ns, data);
 		
 		break;
-		
+		**/
 		case "Sanitize Parentheses in Expression":
 		
 		answer = sanitizeParentheses(ns, data);
