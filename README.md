@@ -11,6 +11,8 @@ A collection of useful Bitburner scripts.
 * [solve-contract.js](#solve)
 * [stock.js](#stock)
 * [sellStocks.js](#sellStock)
+* [buyBigServers.js](#buyBigServers)
+* [autoBuyServers.js](#autoBuyServers)
 
 ## List of Scripts<a name="list"/>
 
@@ -56,3 +58,13 @@ Will scan stock market periodically and buy stable stocks with good forecast and
 Use this script to sell all your stocks. Kill stocks.js to not buy more stocks.
 
 `run sellStocks.js`
+
+### buyBigServers.js<a name="buyBigServers"/>
+Buy player servers of a specific size directly.
+
+`run buyBigServers.js`
+
+### autoBuyServers.js<a name="autoBuyServers"/>
+Manager that purchases player servers. Automatically deletes servers and purchases bigger ones.
+
+`run autoBuyServers.js`
