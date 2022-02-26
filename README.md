@@ -1,6 +1,8 @@
 # Bitburner
 A collection of useful Bitburner scripts.
 
+DISCLAIMER: While some of these scripts have been modified and created, they are mainly taken from various places. I will try to credit the creator where I can.
+
 ##### Table of Contents  
 [List of Scripts](#list)  
 * [Start.js](#start)
@@ -10,7 +12,7 @@ A collection of useful Bitburner scripts.
 * [contract-auto-solver.js](#solver)
 * [solve-contract.js](#solve)
 * [stock.js](#stock)
-* [sellStocks.js](#sellStock)
+* [sellStocks.js](#sellStock) credit - JessicaSung
 * [buyBigServers.js](#buyBigServers)
 * [autoBuyServers.js](#autoBuyServers)
 
